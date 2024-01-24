@@ -1,0 +1,42 @@
+* {
+    text-align: center;
+}
+
+img {
+    margin-top: 10%;
+    margin-bottom: 1%;
+    border: 2px solid white;
+    border-radius: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 2% 2%;
+}
+
+button {
+    color: black;
+    background-color: white;
+    padding: 1% 5%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+button a {
+    text-decoration: none;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+
+}
+
+button:hover a {
+    text-decoration: none;
+}

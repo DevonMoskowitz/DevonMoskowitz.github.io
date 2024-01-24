@@ -1,0 +1,38 @@
+body {
+    background-image: url("media/silverware.jpg");
+}
+h1 {
+    background-color: #F0F0F0;
+    color: #A4A400;
+
+    font-size: 18px;
+    font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+    padding: 4px;
+}
+p, ul, ol {
+    font-size: 11px;
+    font-family: Georgia, Garamond, sans-serif;
+}
+
+.section1 h1{
+    text-align: center;
+    font-size: 22px;
+}
+
+.c1, .c2, .c3 {
+    display: block;
+    background-color: lightyellow;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.links a {
+    color: #A4A400;
+    text-decoration-color: #A4A400;
+}
+.links p {
+    font-family: monospace, sans-serif;
+    font-size: 15px;
+    width: 21%;
+    text-align: right;
+}
