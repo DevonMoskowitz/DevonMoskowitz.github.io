@@ -1,0 +1,52 @@
+
+.part1, .part2 {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+
+.part1 {
+    width: 60%;
+}
+
+.part2 {
+    width: 30%;
+}
+.part1 p {
+    text-align: center;
+}
+.selection {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+
+}
+
+
+.part2 .container {
+    display: flex;
+    justify-content: center;
+}
+
+.part2 p {
+    text-align: center;
+}
+
+.part3 {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+
+    border: 2px solid black;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.part3 button {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 120px;
+    height: 40px;
+}

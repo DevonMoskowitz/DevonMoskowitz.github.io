@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RPS Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<br>
+<div class="main">
+    <div class="part1">
+    <p>Your Turn! Click on the rock, paper, or scissors.</p>
+    <div class="selection">
+        <img src="media/rock.PNG" id="rock" alt="Rock">
+        <img src="media/paper.PNG" id="paper" alt="Paper">
+        <img src="media/scissors.PNG" id="scissors" alt="Scissors">
+    </div>
+        <br>
+    </div>
+    <br>
+    <br>
+    <div class="part2">
+
+        <p>Computers Turn! Hope it goes your way</p>
+        <div class="container">
+            <img src="media/question-mark.PNG" id="computer" alt="Na">
+        </div>
+        <br>
+    </div>
+
+    <br>
+    <br>
+    <div class="part3">
+        <h1 id="result">Result: N/A</h1>
+        <button onclick="reset()">Play Again!</button>
+    </div>
+</div>
+
+<script src="index.js"></script>
+</body>
+</html>
