@@ -88,6 +88,7 @@ function changeImage() {
         if (i < 7) {
             setTimeout(function () {
                 computer.src = randImage(false)
+                console.log(computer.src)
             }, (500 * i))
         } else {
             setTimeout(function () {
