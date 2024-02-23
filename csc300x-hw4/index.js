@@ -103,16 +103,16 @@ function changeImage() {
         let img;
         switch (rand) {
             case 0:
-                img = "media/rock.png"
+                img = rock.src
                 if (last) computerSelection = "rock"
                 break
             case 1:
-                img = "media/paper.png"
+                img = paper.src
                 if (last) computerSelection = "paper"
                 break
 
             case 2:
-                img = "media/scissors.png"
+                img = scissors.src
                 if (last) computerSelection = "scissors"
                 break
         }
