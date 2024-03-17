@@ -6,4 +6,4 @@ Here is my HW 3 Assignment: https://devonmoskowitz.github.io/csc300x-hw3/index.h
 
 Here is my HW 4 Assignment: https://devonmoskowitz.github.io/csc300x-hw4/index.html
 
-Here is my HW 5 Assignment: https://devonmoskowitz.github.io/hw5/index.html
+Here is my HW 5 Assignment: https://devonmoskowitz.github.io/hw-5/index.html
